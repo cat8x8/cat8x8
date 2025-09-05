@@ -4,6 +4,17 @@ I mostly make apps for windows, linux and websites. Rust lang can do it all ! Th
 ![F9KdG8qWYAAqFiv](https://github.com/user-attachments/assets/7fd7ac2c-dbb6-40a5-90f8-07bda572cfcd)
 
 
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/8a520902-89d7-41a0-950f-480b9c60854b)
+
+
+
 # Support your local ghostsec chapter yay lol 
 
 <img width="546" height="467" alt="gs" src="https://github.com/user-attachments/assets/3874a624-40a1-4e17-a061-edc28b16d662" />
