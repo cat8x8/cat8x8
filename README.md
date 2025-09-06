@@ -18,6 +18,6 @@ The code structure here is superior to others who have 20 annoying  rs files. In
 
 
 
-# Support your local ghostsec chapter yay lol 
+# Support your local ghostsec chapter :)
 
 <img width="546" height="467" alt="gs" src="https://github.com/user-attachments/assets/3874a624-40a1-4e17-a061-edc28b16d662" />
